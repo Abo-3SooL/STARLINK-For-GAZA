@@ -224,7 +224,7 @@ In conclusion, the STARLINK FOR GAZA project employs the Systems Toolkit Simulat
 
 ## Simulation Files & Permission
 
-The simulation files are available in this public repository and are free to use without needing permission. If you have any questions, feel free to email me at [abo.3sool1999@gmail.com](mailto:abo.3sool1999@gmail.com), and I will do my best to assist you.
+The simulation files are available in this public repository and are free to use without needing permission. If you have any questions, feel free to email me at [mohammad.asaslih@gmail.com](mailto:mohammad.asaslih@gmail.com), and I will do my best to assist you.
 
 ## Creators
 
@@ -233,7 +233,7 @@ This project Created by Mohammad Ib. Al-Asaslih. No other individuals contribute
 ### Contact Information
 
 - **Mohammad Ib. Al-Asaslih**  
-  Email: [abo.3sool1999@gmail.com](mailto:abo.3sool1999@gmail.com)  
+  Email: [mohammad.asaslih@gmail.com](mailto:mohammad.asaslih@gmail.com)  
   Phone: +962-78-250-9494
 
 ## References
